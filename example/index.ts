@@ -1,6 +1,3 @@
-# Klasifikasi for Node.js
-Official Klasifikasi API Client Library for [Classifier](https://klasifikasi.com/)  
-```typescript
 import Klasifikasi from '../dist'
 
 (async () => {
@@ -18,4 +15,3 @@ import Klasifikasi from '../dist'
   console.log(result)
 
 })()
-```
